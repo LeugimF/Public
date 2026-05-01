@@ -58,6 +58,11 @@ This set of utilities is meant to reduce two common failures in automation syste
 - The current inspected source did not show direct Meta API integration.
 - If you want to productize these modules, add a small wrapper around the browser manager and keep environment values as placeholders.
 
-## Cierre
 
-Este repositorio es un primer extracto. Si quieres revisar el flujo completo o adaptar la estructura a un portfolio público, lo dejo listo para que se use como muestra técnica.
+## Autor
+
+**Miguel Ángel Fernández Ramírez**  
+Desarrollador Full-Stack autodidacta | Colombia 🇨🇴
+
+Si te gusta lo que ves, échale un ojo a mi LinkedIn para más proyectos o prueba el código en tu setup. Nada de hype, solo código que funciona.
+[LinkedIn](https://www.linkedin.com/in/miguel-angel-fernandez-ramirez-67654a1aa) | [GitHub](https://github.com/LeugimF/Public)

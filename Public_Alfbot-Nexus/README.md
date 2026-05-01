@@ -211,5 +211,10 @@ These utilities have enabled:
 - 24/7 automation of business communications
 - Improved customer satisfaction through faster responses
 
+## Autor
+
+**Miguel Ángel Fernández Ramírez**  
+Desarrollador Full-Stack autodidacta | Colombia 🇨🇴
+
 Si te gusta lo que ves, échale un ojo a mi LinkedIn para más proyectos o prueba el código en tu setup. Nada de hype, solo código que funciona.
 [LinkedIn](https://www.linkedin.com/in/miguel-angel-fernandez-ramirez-67654a1aa) | [GitHub](https://github.com/LeugimF/Public)
